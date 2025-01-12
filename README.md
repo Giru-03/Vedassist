@@ -1,4 +1,4 @@
-# [VEDASSIST]
+# VEDASSIST
 ### by [Girendra Singh](https://github.com/Giru-03)
 ### with [Vijay Varadarajan](https://github.com/vijay-varadarajan), [Sahil Murhekar](https://github.com/sahilmurhekar),  and [Ayush Mishra](https://github.com/Ayush-07-Mishra)
 ### from TamilNadu, India
@@ -48,7 +48,7 @@ The following dependencies must be installed using pip to run this web applicati
 
 1. Upon opening, the homepage of this website has buttons to take you to '**login**', '**register**', '**analyze**', '**predict**', and '**shop**' pages.
 
-![Home page](readme_images/Screenshot 2025-01-12 143035.png)
+![Home page](readme_images/Screenshot%202025-01-12%20143035.png)
 
 2. The **Analyze Drug Effect** section requires you to fill a form with the details of the herbs and allopathic drugs you are using, along with your age, gender, weight, doses, and duration.
 
