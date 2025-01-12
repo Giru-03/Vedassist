@@ -68,7 +68,7 @@ The following dependencies must be installed using pip to run this web applicati
 
 7. You can **buy medicines** directly from the platform by clicking on the **Buy** button on the medicine details page.
 
-<center>![Buy page](./readme_images/Screenshot%202025-01-12%20143333.png)</center>
+![Buy page](./readme_images/Screenshot%202025-01-12%20143333.png)
 
 ## Implementation details
 
